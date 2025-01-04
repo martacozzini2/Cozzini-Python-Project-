@@ -1,0 +1,2 @@
+Media TTR dei verbi per i testi generati dalla macchina: 0.825030543972708
+Media TTR dei verbi per i testi prodotti da umano:0.8715020755206477

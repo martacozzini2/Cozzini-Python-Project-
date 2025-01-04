@@ -1,0 +1,2 @@
+Frequenza media dei verbi per i testi umani: 13.798666666666668
+Frequenza media dei verbi per i testi generati dalla macchina: 12.903466666666667
