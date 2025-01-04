@@ -8,7 +8,7 @@ Il dataset utilizzato in questo progetto non è incluso direttamente nella repos
 Il dataset contiene un totale di 50.000 testi. Tuttavia, per motivi di memoria e spazio, si è deciso di utilizzare solo una parte di questo, pari a 15.000 testi. Di questi, 7.500 sono scritti da esseri umani e 7.500 sono generati da macchine. I testi sono suddivisi in due classi: "human" e "ai".
 
 ##Struttura del progetto 
-Il progetto è suddiviso in tre parti principali, ma tutto il codice è contenuto in un unico file[main.py ](/main.py) i risultati generati dal modello sono salvati in una cartella denominata che contiene tre sottocartelle:
+Il progetto è suddiviso in tre parti principali, ma tutto il codice è contenuto in un unico file [main.py ](/main.py) i risultati generati dal modello sono salvati in una cartella denominata [results](/results) che contiene tre sottocartelle:
 -features: risultati dell'estrazione delle caratteristiche.
 -performance: performance del classificatore (accuratezza, matrice di confusione, ecc.).
 -lime analysis: spiegazioni fornite da LIME per alcuni testi.
