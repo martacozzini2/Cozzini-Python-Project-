@@ -8,6 +8,7 @@ Il classificatore è composto da: un'architettura LSTM per l'elaborazione del te
 Nell'ultima parte del codice si utilizza LIME viene per esplorare e interpretare il comportamento del modello, migliorando la comprensione delle decisioni prese dal classificatore.
 
 **##Dataset**
+
 Il dataset utilizzato in questo progetto non è incluso direttamente nella repository, ma può essere trovato su Google Drive. Per poter utilizzare il modello, è necessario scaricare o montare il dataset da questo link https://drive.google.com/file/d/1vevvCWhiFrkcLfNQs4CUHrUWFOzj-uB7/view?usp=sharing
 Il dataset contiene un totale di 50.000 testi. Tuttavia, per motivi di memoria e spazio, si è deciso di utilizzare solo una parte di questo, pari a 15.000 testi. Di questi, 7.500 sono scritti da esseri umani e 7.500 sono generati da macchine. I testi sono suddivisi in due classi: "human" e "ai".
 
@@ -32,9 +33,7 @@ Le librerie Python necessarie sono elencate nel file [requirements.txt](/require
 
 Scarica il dataset e caricalo nel tuo ambiente di programmazione.
 
-Una volta configurato l'ambiente, esegui il file [main.py](/main.py) con il comando
-
-python main.py
+Una volta configurato l'ambiente, esegui il file [main.py](/main.py) con il comando `python main.py` per avviare il progetto
 
 
 
